@@ -6,3 +6,5 @@ Questo repository contiene esercizi per allenarsi con il Python.
 Ogni lettera sbagliata costa una vita all'utente. L'utente ha 10 vite.
 
 <b>Tris</b>: simula il gioco del tris. Vengono messe a disposizione tre tipologie di player. Uno umano (l'utente effettua le scelte), uno random (il computer effettua le scelte in modo random), uno smart (il computer effettua le scelte in modo intelligente usando una strategia minmax).
+
+<b>Generatore Markoviano di testi</b>: un generatore markoviano molto semplice che genera un testo di lunghezza decisa dall'utente imparando dal testo dato in input. Il testo generato non ha molto senso ma parla in modo simile al testo dato in input.
